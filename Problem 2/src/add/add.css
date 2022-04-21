@@ -1,0 +1,15 @@
+.row{
+    border: 1px solid;
+    width:120%;
+padding-top:2.5%;
+padding-bottom:3.5%;
+
+}
+.delete{
+    right: 0;
+    padding-right:0;
+    margin-right:0;
+}
+.name{
+    margin-right: 59%;
+}
